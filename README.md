@@ -6,7 +6,7 @@ I'm interested in doing the UX porition of the Engineering to see what differs f
 
 ## UX Team Project
 
-Coming soon.
+Clipbee
 
 ## UX Journal
 
